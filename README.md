@@ -3,12 +3,14 @@
 ### DATE: 
 
 ## AIM: 
-### To reverse engineering the product and prototyping the same in 3D printer.
+ To reverse engineering the product and prototyping the same in 3D printer.
 
 ## REQUIREMENTS:
-### ●	CURA 4.0 Software
-### ●	 Autodesk Fusion 360
-### ●	 System - Windows 7 or higher, 1 GB RAM.
+ ●	CURA 4.0 Software
+ 
+ ●	 Autodesk Fusion 360
+ 
+●	 System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
 ### Step 1.:- Duplicate all the geometric features for the given object using vernier caliper, measuring tapes or any instruments provided
@@ -31,12 +33,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![245680013-e1baa95a-1309-4ad4-95cb-2ad36b76d192](https://github.com/SandhiyaR1/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/113497571/b4c79d8f-8949-4c47-937d-583d1279bb50)
+
 
 ### Output:
+![245679927-959a8135-5bac-42b4-9eb2-a21dbae810f5](https://github.com/SandhiyaR1/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/113497571/aac7ef5a-2378-4712-ad39-6c90bffc5cb8)
 
-
-### Name:
-### Register Number:
+### Name: SANDHIYA R
+### Register Number: 212222230129
 
 ## RESULT:
-###   Thus the given product is reverse engineered and prototyped using 3D Printer.
+ Thus the given product is reverse engineered and prototyped using 3D Printer.
